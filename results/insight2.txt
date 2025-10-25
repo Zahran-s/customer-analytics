@@ -1,0 +1,7 @@
+Column means (numeric):
+Age           -4.272138e-16
+Gender         4.986000e-01
+Weight (kg)    3.907985e-18
+Height (m)    -4.128253e-16
+Max_BPM        1.847411e-17
+Avg_BPM       -1.701750e-16

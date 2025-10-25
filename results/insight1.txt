@@ -1,0 +1,1 @@
+Dataset shape after preprocessing: 20000 rows x 7 columns.

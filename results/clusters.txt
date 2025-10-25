@@ -1,0 +1,3 @@
+Cluster 0: 6393 rows
+Cluster 1: 6090 rows
+Cluster 2: 7517 rows
