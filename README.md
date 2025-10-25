@@ -190,6 +190,6 @@ These visuals demonstrate exploratory data analysis, not just plotting an ID col
 - `summary.sh` automates exporting results and also stops/removes the container, leaving behind a clean `results/` folder on the host for submission.
 - The project structure and output format match the required submission format of the assignment.
 
-### 8.0 Bonus
+### 9.0 Bonus
 - **Docker Hub Image:** [https://hub.docker.com/r/zahrans/customer-analytics]
 - **GitHub Repository:** [https://github.com/Zahran-s/customer-analytics]
