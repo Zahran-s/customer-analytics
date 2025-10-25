@@ -189,3 +189,7 @@ These visuals demonstrate exploratory data analysis, not just plotting an ID col
 - The Docker image installs all required libraries (`pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `scipy`, `requests`) on top of `python:3.11-slim`.
 - `summary.sh` automates exporting results and also stops/removes the container, leaving behind a clean `results/` folder on the host for submission.
 - The project structure and output format match the required submission format of the assignment.
+
+### 8.0 Bonus
+- **Docker Hub Image:** [https://hub.docker.com/r/zahrans/customer-analytics]
+- **GitHub Repository:** [https://github.com/Zahran-s/customer-analytics]
